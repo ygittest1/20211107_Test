@@ -4,3 +4,4 @@ test3
 
 wwwwwwww
 add server
+add local
