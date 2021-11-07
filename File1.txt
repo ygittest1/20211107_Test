@@ -11,3 +11,4 @@ add server4
 
 add local10
 
+add server10
